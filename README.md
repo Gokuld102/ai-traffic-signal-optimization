@@ -134,3 +134,14 @@ The frontend calls these endpoints periodically to simulate real-time updates.
 - Persist YOLO detections frame-by-frame for deeper analytics.
 - Train a more advanced ML model for long-term congestion prediction.
 - Secure the APIs and integrate authentication.
+
+## 📸 Screenshots
+
+### 🖥️ App Preview
+![App Preview](images/app_prev.png)
+
+### 📊 Detailed View
+![Details](images/detail.png)
+
+### 📈 Graph View
+![Graph](images/graph.png)
