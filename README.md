@@ -135,3 +135,6 @@ The frontend calls these endpoints periodically to simulate real-time updates.
 - Train a more advanced ML model for long-term congestion prediction.
 - Secure the APIs and integrate authentication.
 
+## 📸 Dashboard Preview
+
+![Dashboard](frontend/screenshot.png)
